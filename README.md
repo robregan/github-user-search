@@ -1,2 +1,3 @@
 # github profile search!
-  - using tailwindCSS and DaisyUI with react. Just started, will update as I progress!
+  - using tailwindCSS and DaisyUI with react. 
+  - live site here! https://github-finda.netlify.app
